@@ -1,5 +1,4 @@
 # Bentimes
----
 ## Installation
 ### Arch Linux
 * There's a PKGBUILD. Do the thing.
